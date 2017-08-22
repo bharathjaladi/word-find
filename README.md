@@ -1,0 +1,1 @@
+WordFind is a game I built using the Java Swing Library. The objective is to click, drag, and release on the letters in a pseudo-randomly generated grid to form words (which are verified against a dictionary of 350,000+ words) and score points within the time limit. Try it out! The game can be played by running Game.java.
